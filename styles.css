@@ -2,3 +2,6 @@
 
 .areas .data-governance{grid-column:1 / -1}.data-governance p{max-width:850px}
 
+
+.hero-foundations{display:flex;flex-wrap:wrap;gap:8px 28px;margin:24px 0 0;color:var(--muted);font-size:18px;line-height:1.5}@media(max-width:620px){.hero-foundations{flex-direction:column;gap:6px;font-size:16px}}
+
