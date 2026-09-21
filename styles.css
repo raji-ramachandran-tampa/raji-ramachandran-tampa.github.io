@@ -5,3 +5,6 @@
 
 .hero-foundations{display:flex;flex-wrap:wrap;gap:8px 28px;margin:24px 0 0;color:var(--muted);font-size:18px;line-height:1.5}@media(max-width:620px){.hero-foundations{flex-direction:column;gap:6px;font-size:16px}}
 
+
+.public-projects{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}.public-projects .project{display:flex;flex-direction:column}.public-projects .textlink{margin-top:auto}header nav{flex-wrap:wrap;gap:14px}#collaboration{border-top:1px solid var(--line)}#collaboration>p{max-width:780px}@media(max-width:850px){.public-projects{grid-template-columns:1fr}}
+
