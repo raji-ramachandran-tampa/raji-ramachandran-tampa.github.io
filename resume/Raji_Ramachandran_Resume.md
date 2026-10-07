@@ -100,4 +100,8 @@ Ph.D., Economics — Florida State University | M.S., Computer Science — Unive
 
 Certified Information Management Professional (2011); CISSP (earned 2006). MIT Professional Education AI and ML graduate certificate — completed September 2025.
 
-Co-inventor: [Methods and Systems for Assessing Data Quality (US 10,248,672 B2)](https://patents.google.com/patent/US10248672B2/en); [Methods and Systems for Evaluating Predictive Models (US 20140379310 A1; abandoned application)](https://patents.justia.com/patent/20140379310).
+Co-inventor:
+
+Methods and Systems for Assessing Data Quality (US 20130073594 A1; granted as US 10,248,672 B2) — [https://patents.justia.com/patent/20130073594](https://patents.justia.com/patent/20130073594)
+
+Methods and Systems for Evaluating Predictive Models (US 20140379310 A1; abandoned application) — [https://patents.justia.com/patent/20140379310](https://patents.justia.com/patent/20140379310)
