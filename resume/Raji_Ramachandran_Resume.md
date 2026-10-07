@@ -105,3 +105,11 @@ Co-inventor:
 Methods and Systems for Assessing Data Quality (US 20130073594 A1; granted as US 10,248,672 B2) — [https://patents.justia.com/patent/20130073594](https://patents.justia.com/patent/20130073594)
 
 Methods and Systems for Evaluating Predictive Models (US 20140379310 A1; abandoned application) — [https://patents.justia.com/patent/20140379310](https://patents.justia.com/patent/20140379310)
+
+## Selected Publications
+
+- **2001** — [Robust Estimation of GARMA Model Parameters with an Application to Cointegration among Interest Rates of Industrialized Countries](https://link.springer.com/article/10.1023/A:1011640512990). With Paul Beaumont. Computational Economics, 17, 179–201.
+
+- **2000** — [Generalized Autoregressive Moving Average Modeling of the Bellcore Data](https://doi.org/10.1109/LCN.2000.891112). With Venkat R. Bhethanabotla. Proceedings of the 25th IEEE Conference on Local Computer Networks.
+
+- **2015** — [Improving Financial Services Data Quality – A Financial Company Practice](https://www.researchgate.net/publication/277962761_Improving_financial_services_data_quality_-_a_financial_company_practice). Co-author. International Journal of Lean Six Sigma, 6(2), 98–110.
