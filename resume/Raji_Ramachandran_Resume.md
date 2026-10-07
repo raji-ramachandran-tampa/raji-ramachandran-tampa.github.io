@@ -113,3 +113,7 @@ Methods and Systems for Evaluating Predictive Models (US 20140379310 A1; abandon
 - **2000** — [Generalized Autoregressive Moving Average Modeling of the Bellcore Data](https://doi.org/10.1109/LCN.2000.891112). With Venkat R. Bhethanabotla. Proceedings of the 25th IEEE Conference on Local Computer Networks.
 
 - **2015** — [Improving Financial Services Data Quality – A Financial Company Practice](https://www.researchgate.net/publication/277962761_Improving_financial_services_data_quality_-_a_financial_company_practice). Co-author. International Journal of Lean Six Sigma, 6(2), 98–110.
+
+## Selected Presentations
+
+Presentations at the Society of Computational Economics, IEEE LCN, Agent 2003 (University of Chicago), and Predictive Analytics World.
