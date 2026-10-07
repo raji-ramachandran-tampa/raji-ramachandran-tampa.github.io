@@ -6,9 +6,9 @@ ramachandran.raji@gmail.com | US Citizen | [Portfolio](https://raji-ramachandran
 
 ## Professional Summary
 
-Senior analytics, data and technology executive with 25+ years in financial services and payment processing. Leads global teams delivering model governance, regulatory remediation, enterprise data quality and operational automation. Personally designs, develops and codes analytical models and reusable software, combining hands-on engineering with stakeholder alignment and adoption across teams. Recent independent projects demonstrate agent governance, resumable orchestration and objective evaluation. Ph.D. economist and M.S. computer scientist; co-inventor of patented analytical methods.
+Hands-on quantitative model developer and software engineer with 25+ years in financial services and payment processing. Designs, develops and codes analytical models and reusable software for model development, deployment, continuous monitoring and root-cause analysis. Experience spans credit risk, forecasting, AML, model governance, regulatory remediation and enterprise data quality. Independent AI projects demonstrate agent governance, resumable orchestration and objective evaluation. Ph.D. economist and M.S. computer scientist; co-inventor of analytical methods.
 
-## Leadership and Technical Expertise
+## Technical Expertise
 
 Governance and operations: Model lifecycle controls, policies and standards, MRA remediation, root-cause analysis, access approvals, disaster recovery, workflow automation and adoption
 
